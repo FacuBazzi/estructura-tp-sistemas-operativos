@@ -1,0 +1,16 @@
+[INFO] 18:02:55:917 modulo2/(16400:16400): Inicia el modulo2 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:05:01:077 modulo2/(16517:16517): Inicia el modulo2 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:05:01:078 modulo2/(16517:16517): Configuración cargada correctamente desde ./cfg/modulo2.config
+[ERROR] 18:05:01:079 modulo2/(16517:16517): Falló la conexión con el servidor
+[INFO] 18:05:46:915 modulo2/(16533:16533): Inicia el modulo2 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:05:46:918 modulo2/(16533:16533): Configuración cargada correctamente desde ./cfg/modulo2.config
+[INFO] 18:05:46:920 modulo2/(16533:16533): Conexion exitosa con el servidor
+[INFO] 18:06:42:470 modulo2/(16533:16533): Finalizando el modulo2
+[INFO] 18:06:55:825 modulo2/(16541:16541): Inicia el modulo2 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:06:55:828 modulo2/(16541:16541): Configuración cargada correctamente desde ./cfg/modulo2.config
+[INFO] 18:06:55:829 modulo2/(16541:16541): Conexion exitosa con el servidor
+[INFO] 18:06:58:254 modulo2/(16541:16541): Finalizando el modulo2
+[INFO] 18:07:05:180 modulo2/(16546:16546): Inicia el modulo2 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:07:05:183 modulo2/(16546:16546): Configuración cargada correctamente desde ./cfg/modulo2.config
+[INFO] 18:07:05:185 modulo2/(16546:16546): Conexion exitosa con el servidor
+[INFO] 18:07:10:645 modulo2/(16546:16546): Finalizando el modulo2

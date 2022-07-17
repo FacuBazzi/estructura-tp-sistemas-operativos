@@ -1,0 +1,30 @@
+[INFO] 17:08:49:681 modulo1/(14727:14727): Inicia el modulo1 haciendo uso de shared: Hice uso de la shared!
+[INFO] 17:08:49:684 modulo1/(14727:14727): Configuración cargada correctamente desde ./cfg/modulo1.config
+[INFO] 17:08:49:685 modulo1/(14727:14727): Servidor iniciado y esperando que lleguen clientes
+[INFO] 17:09:10:881 modulo1/(14727:14727): Finalizando el modulo1
+[INFO] 18:05:09:766 modulo1/(16522:16522): Inicia el modulo1 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:05:09:768 modulo1/(16522:16522): Configuración cargada correctamente desde ./cfg/modulo1.config
+[INFO] 18:05:09:769 modulo1/(16522:16522): Servidor iniciado y esperando que lleguen clientes
+[INFO] 18:05:13:547 modulo1/(16522:16522): Finalizando el modulo1
+[INFO] 18:05:25:156 modulo1/(16528:16528): Inicia el modulo1 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:05:25:159 modulo1/(16528:16528): Configuración cargada correctamente desde ./cfg/modulo1.config
+[INFO] 18:05:25:160 modulo1/(16528:16528): Servidor iniciado y esperando que lleguen clientes
+[INFO] 18:05:46:919 modulo1/(16528:16530): Cliente conectado!
+[INFO] 18:05:46:921 modulo1/(16528:16530): Recibi un MENSAJE_1, respondo el doble del numero recibido
+[INFO] 18:05:46:960 modulo1/(16528:16530): Recibi un MENSAJE_2, respondo el triple del numero recibido
+[INFO] 18:06:40:411 modulo1/(16528:16528): Finalizando el modulo1
+[INFO] 18:06:54:656 modulo1/(16538:16538): Inicia el modulo1 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:06:54:657 modulo1/(16538:16538): Configuración cargada correctamente desde ./cfg/modulo1.config
+[INFO] 18:06:54:658 modulo1/(16538:16538): Servidor iniciado y esperando que lleguen clientes
+[INFO] 18:06:55:828 modulo1/(16538:16540): Cliente conectado!
+[INFO] 18:06:55:830 modulo1/(16538:16540): Recibi un MENSAJE_1, respondo el doble del numero recibido
+[INFO] 18:06:55:867 modulo1/(16538:16540): Recibi un MENSAJE_2, respondo el triple del numero recibido
+[INFO] 18:06:58:255 modulo1/(16538:16540): Recibi un MENSAJE_1, respondo el doble del numero recibido
+[INFO] 18:06:58:256 modulo1/(16538:16540): Recibi un MENSAJE_1, respondo el doble del numero recibido
+[INFO] 18:07:04:359 modulo1/(16543:16543): Inicia el modulo1 haciendo uso de shared: Hice uso de la shared!
+[INFO] 18:07:04:362 modulo1/(16543:16543): Configuración cargada correctamente desde ./cfg/modulo1.config
+[INFO] 18:07:04:363 modulo1/(16543:16543): Servidor iniciado y esperando que lleguen clientes
+[INFO] 18:07:05:184 modulo1/(16543:16545): Cliente conectado!
+[INFO] 18:07:05:186 modulo1/(16543:16545): Recibi un MENSAJE_1, respondo el doble del numero recibido
+[INFO] 18:07:05:224 modulo1/(16543:16545): Recibi un MENSAJE_2, respondo el triple del numero recibido
+[INFO] 18:07:08:796 modulo1/(16543:16543): Finalizando el modulo1
